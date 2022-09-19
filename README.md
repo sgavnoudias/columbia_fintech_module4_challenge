@@ -5,17 +5,12 @@ Features:
 - Determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas
 - To accomplish these tasks, the module is broken up into the following phases of financial analysis: 
 
-     * Import the Data*
-
-     * Analyze the Performance*
-
-     *Analyze the Volatility*
-     
-     * Analyze the Risk *
-     
-     * Analyze the Risk-Return Profile *
-     
-     * Diversify the Portfolio *
+     * Import the Data
+     * Analyze the Performance
+     * Analyze the Volatility
+     * Analyze the Risk
+     * Analyze the Risk-Return Profile
+     * Diversify the Portfolio
 
 ---
 
